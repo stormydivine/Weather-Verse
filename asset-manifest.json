@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/WeatherVerse/static/css/main.6583d69a.css",
-    "main.js": "/WeatherVerse/static/js/main.8b9c876e.js",
-    "static/js/787.28cb0dcd.chunk.js": "/WeatherVerse/static/js/787.28cb0dcd.chunk.js",
-    "static/media/summerbg.jpg": "/WeatherVerse/static/media/summerbg.886b807f981f65b4ca72.jpg",
-    "static/media/coolbg.jpg": "/WeatherVerse/static/media/coolbg.917a1ded5e49b179029d.jpg",
-    "static/media/winterbg.jpg": "/WeatherVerse/static/media/winterbg.469d7cbf8846f8128350.jpg",
-    "index.html": "/WeatherVerse/index.html",
-    "main.6583d69a.css.map": "/WeatherVerse/static/css/main.6583d69a.css.map",
-    "main.8b9c876e.js.map": "/WeatherVerse/static/js/main.8b9c876e.js.map",
-    "787.28cb0dcd.chunk.js.map": "/WeatherVerse/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.614afb2f.css",
+    "main.js": "/static/js/main.bdbb7351.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/summerbg.jpg": "/static/media/summerbg.886b807f981f65b4ca72.jpg",
+    "static/media/coolbg.jpg": "/static/media/coolbg.917a1ded5e49b179029d.jpg",
+    "static/media/winterbg.jpg": "/static/media/winterbg.469d7cbf8846f8128350.jpg",
+    "index.html": "/index.html",
+    "main.614afb2f.css.map": "/static/css/main.614afb2f.css.map",
+    "main.bdbb7351.js.map": "/static/js/main.bdbb7351.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6583d69a.css",
-    "static/js/main.8b9c876e.js"
+    "static/css/main.614afb2f.css",
+    "static/js/main.bdbb7351.js"
   ]
 }
